@@ -12,6 +12,12 @@ npx create-next-app@latest my-app --typescript --tailwind --eslint
 ```bash
     npx shadcn-ui@latest init # init shadcn-ui
     npx shadcn-ui@latest add # add components and select which ones you want
+```
+
+## Database
+
+I haven't chosen a database yet, I'll switch to one later.
+
 
 ## Getting Started
 
