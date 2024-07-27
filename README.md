@@ -6,6 +6,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 npx create-next-app@latest my-app --typescript --tailwind --eslint
 ```
 
+
+## Shadcn/ui
+
+```bash
+    npx shadcn-ui@latest init # init shadcn-ui
+    npx shadcn-ui@latest add # add components and select which ones you want
+
 ## Getting Started
 
 First, run the development server:
